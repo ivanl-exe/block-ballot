@@ -1,0 +1,1 @@
+const nap = (t) => new Promise((resolve) => setTimeout(resolve, t));

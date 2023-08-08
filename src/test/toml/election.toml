@@ -1,0 +1,20 @@
+[joe-biden]
+party = "Democrat"
+party-website = "https://democrats.org"
+terms-served = 1
+website = "https://joebiden.com"
+twitter-account = [
+    "https://twitter.com/JoeBiden",
+    "https://x.com/JoeBiden"
+]
+
+[donald-trump]
+party = "Republican"
+party-website = "https://gop.com"
+terms-served = 1
+website = "https://www.donaldjtrump.com"
+twitter-account = [
+    "https://twitter.com/realDonaldTrump",
+    "https://x.com/realDonaldTrump"
+]
+preferred-social-media-account = "https://truthsocial.com/@realDonaldTrump"
