@@ -3,18 +3,12 @@ party = "Democrat"
 party-website = "https://democrats.org"
 terms-served = 1
 website = "https://joebiden.com"
-twitter-account = [
-    "https://twitter.com/JoeBiden",
-    "https://x.com/JoeBiden"
-]
+twitter-account = "@JoeBiden"
 
 [donald-trump]
 party = "Republican"
 party-website = "https://gop.com"
 terms-served = 1
 website = "https://www.donaldjtrump.com"
-twitter-account = [
-    "https://twitter.com/realDonaldTrump",
-    "https://x.com/realDonaldTrump"
-]
+twitter-account = "@realDonaldTrump"
 preferred-social-media-account = "https://truthsocial.com/@realDonaldTrump"

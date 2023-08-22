@@ -65,6 +65,50 @@ body {
 
 .blockchain-item {
     grid-area: ⛓️;
+    display: flex;
+    flex-direction: column;
+    overflow:auto;
+}
+
+.blockchain-ballot-item {
+    text-align: left;
+}
+
+.blockchain-hash {
+    color: #ffac68;
+    font-weight: bold;
+}
+
+.blockchain-ballot-hash-item {
+
+}
+
+.blockchain-ballot-candidate-hash-item {
+
+}
+
+.blockchain-ballot-candidate-item {
+    background-color: rgba(255, 255, 255, 10%);
+}
+
+.blockchain-ballot-candidate-pair-item {
+
+}
+
+.blockchain-ballot-candidate-key {
+
+}
+
+.blockchain-ballot-candidates-values {
+
+}
+
+.blockchain-ballot-candidates-values::before {
+    content: "[";
+}
+
+.blockchain-ballot-candidates-values::after {
+    content: "]";
 }
 
 .ballot-item {
